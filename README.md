@@ -1,4 +1,4 @@
-# 🎨 ActivitySwipe - TypeScript Edition
+# 🎨 ActivitySwipe
 
 Une application React moderne avec TypeScript pour découvrir des activités créatives et hobbies près de chez vous !
 
